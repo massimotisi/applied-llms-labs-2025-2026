@@ -36,10 +36,10 @@ pip --version     # Should show pip version
 
 ```bash
 # Clone the course repository
-git clone https://github.com/massimotisi/llm-engineering-course
+git clone https://github.com/massimotisi/applied-llms-labs-2025-2026
 
 # Navigate to the project
-cd llm-engineering-course
+cd applied-llms-labs-2025-2026
 
 # Create a virtual environment
 python -m venv venv
