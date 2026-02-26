@@ -84,7 +84,7 @@ Agent: [Responds] "It's currently 18°C and partly cloudy in Paris"
 
 ##  The ReAct Pattern
 
-ReAct = **Rea**soning + **Act**ing
+ReAct = **Re**asoning + **Act**ing
 
 Agents follow this iterative loop:
 
